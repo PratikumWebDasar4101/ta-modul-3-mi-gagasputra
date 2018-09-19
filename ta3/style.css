@@ -1,0 +1,101 @@
+body {
+    margin: 0;
+}
+
+.login {
+    float: left;
+    width: 30%;
+    margin-left: 32%;
+    padding: 3%;
+    background-color: rgba(151, 151, 151, 0.808);
+    border: 1px solid #ebebeb;
+    border-radius: 0 0 10px 10px;
+	box-shadow: rgba(0,0,0,0.14902) 0px 1px 1px 0px,rgba(0,0,0,0.09804) 0px 1px 2px 0px;
+}
+
+#input {
+    width: 70%;
+}
+
+#submit {
+    background-color: #fff;
+    float: left;
+    margin-left: 55%;
+}
+
+#submitlog {
+    background-color: #fff;
+    float: left;
+    margin-left: 43%;
+}
+
+#submitreg {
+    background-color: #fff;
+    float: left;
+    margin-left: 40%;
+}
+
+#logreg{
+    background-color: #fff;
+    border-radius: 0 0 10px 10px;
+    margin-right: 32%;
+    float: right;
+}
+
+.mhs {
+    align-content: center;
+    float: left;
+    width: 30%;
+    margin-left: 32%;
+    padding: 3%;
+    background-color: rgba(151, 151, 151, 0.808);
+    border: 1px solid #ebebeb;
+    border-radius: 0 0 10px 10px;
+	box-shadow: rgba(0,0,0,0.14902) 0px 1px 1px 0px,rgba(0,0,0,0.09804) 0px 1px 2px 0px;
+}
+
+#isiform {
+    margin-left: 14%;
+    float: left;
+    width: 100%;
+}
+
+.mahasiswa {
+
+    margin: 0 10%;
+    float: left;
+    width: 80%;
+}
+
+.mahasiswa > table {
+    border-spacing: 0;
+    text-align: center;
+}
+
+#logoutmhs {
+    float: left;
+    background-color: #fff;
+    margin-left: 62.5%;
+}
+
+#tombol {
+    padding: 3px;
+    width: 12%;
+    background-color: #ebebeb;
+    border-radius: 10px 10px 0 0;
+	box-shadow: rgba(0,0,0,0.14902) 0px 1px 1px 0px,rgba(0,0,0,0.09804) 0px 1px 2px 0px;
+    float: right;
+    margin-right: 10%;
+}
+
+#tombols {
+    cursor: pointer;
+    border: 0;
+    background-color: #ebebeb;
+    border-radius: 5px 5px 0 0;
+}
+
+#tombols:hover {
+    color: white;
+    background-color: rgb(49, 49, 49);
+}
